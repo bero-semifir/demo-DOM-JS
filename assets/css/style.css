@@ -1,0 +1,16 @@
+.bonGout {
+    color: purple;
+    background-color: greenyellow;
+    border: 5px solid blue;
+}
+
+.alerte {
+    color: red;
+    background-color: rgba(255,0,0,0.2);
+    padding: 1em;
+    border-radius: 5px;
+}
+
+.hidden {
+    display: none;
+}
